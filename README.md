@@ -16,5 +16,6 @@ and then:
 cd prebuilts/gcc-x64
 cat toolchain-4.9.3-armhf.tar.gz* | sudo tar xz -C /
 cat toolchain-6.4-aarch64.tar.gz* | sudo tar xz -C /
+sudo tar xf toolchain-11.3-aarch64.tar.xz -C /
 ```
 
